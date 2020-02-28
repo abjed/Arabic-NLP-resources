@@ -1,4 +1,4 @@
-# Arabic-SQuAD : Arabic Machine Reading for Question Answering
+# Arabic-SQuAD : Arabic Reading Comprehension Dataset
 
 ## Introduction
 

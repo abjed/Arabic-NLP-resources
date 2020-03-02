@@ -2,17 +2,7 @@
 
 ## Datasets 
 
-| Name | License | Size | Price | Date | 
+| Name | License | Size |  Date | Metadata | 
 | -- | -- | -- | -- | -- | 
-| | | | |  |
+|[SOQAL / Arabic SQuAD](https://github.com/husseinmozannar/SOQAL) | Open | | 12 Jun 2019  |  |
 
-## Pre-trained models  
-
-| Name | Data | Performance | Date | 
-| -- | -- | -- | -- | 
-| | | | | 
-
-## Papers 
-| Name | Summary | Date | Publisher | 
-| -- | -- | -- | -- |
-| | | | |

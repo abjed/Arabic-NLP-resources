@@ -19,5 +19,5 @@ the reader will be pointed there.
 - [Question answering](question_answering/index.md)
 
 ## Contributing
-Read our [Contributing Guidelines](CONTRIBUTING.md).
+Read our [Contributing Guidelines](/CONTRIBUTING.md).
 

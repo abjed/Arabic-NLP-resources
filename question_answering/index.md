@@ -4,5 +4,5 @@
 
 | Name | License | Size |  Date | Metadata | 
 | -- | -- | -- | -- | -- | 
-|[SOQAL / Arabic SQuAD](https://github.com/husseinmozannar/SOQAL) | Open | | 12 Jun 2019  |  |
+|[SOQAL / Arabic SQuAD](https://github.com/husseinmozannar/SOQAL) | unspecified | | Jun 2019  | [WANLP 2019](https://sites.google.com/view/wanlp-2019/home) |
 

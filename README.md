@@ -1,8 +1,7 @@
-# Arabic-SQuAD : Arabic Reading Comprehension Dataset
+# Arabic NLP resources
 
-## Introduction
+## Datasets
 
-## The Arabic-SQuAD corpus
+## NLP tasks SOTA
 
-## Acknowledgement
-This project is inspired by [French-SQuAD](https://github.com/Alikabbadj/French-SQuAD/). 
+

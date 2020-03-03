@@ -1,4 +1,4 @@
-# Tracking NLP resources for the Arabic language 🚀
+# Tracking NLP resources for Arabic 🚀
 
 This project aims to track the progress in Natural Language Processing (NLP) for the Arabic language and give an overview
 of the state-of-the-art (SOTA) across the most common NLP tasks and their corresponding datasets.

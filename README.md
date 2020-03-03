@@ -17,6 +17,7 @@ the reader will be pointed there.
 - [Automatic speech recognition](automatic_speech_recognition/index.md)
 - [Machine translation](machine_translation/index.md)
 - [Question answering](question_answering/index.md)
+- [Language Modeling](language_modeling/index.md)
 
 ## Contributing
 Read our [Contributing Guidelines](/CONTRIBUTING.md).

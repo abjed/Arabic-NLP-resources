@@ -20,5 +20,5 @@ the reader will be pointed there.
 - [Language Modeling](language_modeling/index.md)
 
 ## Contributing
-Read our [Contributing Guidelines](/CONTRIBUTING.md).
+Read our [Contributing Guidelines](contributing/index.md) and [Code of Conduct](code_of_conduct/index.md).
 

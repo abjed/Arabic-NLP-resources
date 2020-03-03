@@ -12,3 +12,5 @@
 | -- | -- | -- | -- |
 | [An enhanced automatic speech recognition system for Arabic](https://www.aclweb.org/anthology/W17-1319/) | Develop an ASR system for MSA by using Kaldi toolkit, achieving WER: 12 | 2017 |[Loria](https://www.loria.fr/en/) |
 
+*More resources coming soon stay tuned ! 🤩 You are welcome to contribute to this project ! 🙏*
+

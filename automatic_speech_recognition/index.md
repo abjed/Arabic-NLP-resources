@@ -17,7 +17,7 @@
 | Name | Publisher | Techs | Comments | 
 | -- | -- | -- | -- |
 | [OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) | Nvidia | Python | End-to-end python pipeline, English pretrained [models](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition.html) available |
-| [ESPnet](https://github.com/espnet/espnet) | [Researchers](https://arxiv.org/pdf/1804.00015.pdf) | Python,cpp, Kaldi | Features written on Disk | Joint CTC-Attention | 
+| [ESPnet](https://github.com/espnet/espnet) | [Researchers](https://arxiv.org/pdf/1804.00015.pdf) | Python,cpp, Kaldi | Features written on Disk. Joint CTC-Attention architecture | 
 
 *More resources coming soon stay tuned ! 🤩 You are welcome to contribute to this project ! 🙏*
 

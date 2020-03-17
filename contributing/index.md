@@ -11,7 +11,7 @@ This project and everyone participating in it is governed by the [Contributor Co
 ## How Can I Contribute?
 
 Arabic-NLP-resources is an open source project and we love to receive contributions from our community! There are many ways to contribute: 
-* Add more resources to an already documented task : modify the `index.md` file under the folder of the considered task. For example, if you want to add resources on Machine Translation, modify the file [`../machine_translation/index.md`](machine_translation/index.md).
+* Add more resources to an already documented task : modify the `index.md` file under the folder of the considered task. For example, if you want to add resources on Machine Translation, modify the file [`machine_translation/index.md`](../machine_translation/index.md).
 * Add resources for a new task : add a new folder with the task's name (replace spaces in the name with `_`) in the root path of the project. Then, add an `index.md` file with the resources to include. 
 * Correct typos in this project. 
 

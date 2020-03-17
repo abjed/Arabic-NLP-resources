@@ -4,7 +4,7 @@
 
 | Name | License | Size | Date | Metadata | 
 | -- | -- | -- | -- | -- | 
-| [King Saud University Arabic Speech Database](https://catalog.ldc.upenn.edu/LDC2014S02) | [Only research, no commercial](https://catalog.ldc.upenn.edu/license/King%20Saud%20University%20Arabic%20Speech%20Database.pdf)|590 | February 17, 2014 | Sampling rate: 48K, microphone speech, 269 speakers | 
+| [King Saud University Arabic Speech Database](https://catalog.ldc.upenn.edu/LDC2014S02) | [Only research, no commercial](https://catalog.ldc.upenn.edu/license/King%20Saud%20University%20Arabic%20Speech%20Database.pdf)|590h | February 17, 2014 | Sampling rate: 48K, microphone speech, 269 speakers | 
 
 ## Papers 
 

@@ -15,7 +15,7 @@ the reader will be pointed there.
 ## NLP tasks
 
 - [Automatic speech recognition](automatic_speech_recognition/index.md)
-- [Diarization](diarization/index.md)
+- [Speaker Diarization](diarization/index.md)
 - [Machine translation](machine_translation/index.md)
 - [Question answering](question_answering/index.md)
 - [Language Modeling](language_modeling/index.md)

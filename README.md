@@ -19,9 +19,11 @@ task of interest, which helps building a quick proof of concept (POC) for their 
 
 *More tasks coming soon stay tuned ! 🤩 You are welcome to contribute to this project ! 🙏*
 
- ## More resources
- - Arabic Natural Language Processing Workshop: [2020](https://sites.google.com/corp/view/wanlp-2020), [2019](https://sites.google.com/view/wanlp-2019).
- 
+## More resources
+
+- Arabic Natural Language Processing Workshop: [2020](https://sites.google.com/corp/view/wanlp-2020), [2019](https://sites.google.com/view/wanlp-2019).
+
+
 ## Contributing
 Read our [Contributing Guidelines](contributing/index.md) and [Code of Conduct](code_of_conduct/index.md).
 

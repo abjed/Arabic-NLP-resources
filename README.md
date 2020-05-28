@@ -23,3 +23,6 @@ the reader will be pointed there.
 
 ## Contributing
 Read our [Contributing Guidelines](contributing/index.md) and [Code of Conduct](code_of_conduct/index.md).
+
+### Acknowledgement
+This project is inspired by https://nlpprogress.com/. 

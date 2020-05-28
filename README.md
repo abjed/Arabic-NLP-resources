@@ -17,7 +17,7 @@ task of interest, which helps building a quick proof of concept (POC) for their 
 - [Language Modeling](language_modeling/index.md)
 - [Diacritization](diacritization/index.md)
 
-More tasks coming soon stay tuned ! 🤩 You are welcome to contribute to this project ! 🙏
+*More tasks coming soon stay tuned ! 🤩 You are welcome to contribute to this project ! 🙏*
 
 ## Contributing
 Read our [Contributing Guidelines](contributing/index.md) and [Code of Conduct](code_of_conduct/index.md).

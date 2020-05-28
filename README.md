@@ -22,7 +22,7 @@ task of interest, which helps building a quick proof of concept (POC) for their 
 
 ## More resources
 
-- Arabic Natural Language Processing Workshop: [2020](https://sites.google.com/corp/view/wanlp-2020), [2019](https://sites.google.com/view/wanlp-2019).
+- Arabic Natural Language Processing Workshop: [WANLP 2020](https://sites.google.com/corp/view/wanlp-2020), [WANLP 2019](https://sites.google.com/view/wanlp-2019).
 
 
 ## Contributing

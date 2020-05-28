@@ -5,7 +5,7 @@ of the state-of-the-art (SOTA) across the most common NLP tasks and their corres
 
 The idea is to track papers, datasets, pre-trained models and SOTA of each NLP task. This inventory is built with **business applications** in mind, the objective being to have a starting point for NLP based solutions, rather than fully focused on research.
 
-The main goal is to provide the reader with a quick overview of benchmark datasets and the state-of-the-art for their
+The main goal is to provide the reader with an overview of benchmark datasets and the state-of-the-art for their
 task of interest, which helps building a quick proof of concept (POC) for their target application. 
 
 ## NLP tasks
